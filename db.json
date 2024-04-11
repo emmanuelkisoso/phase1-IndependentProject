@@ -1,0 +1,212 @@
+{
+  "news": [
+    {
+      "id": 1,
+      "title": "COVID-19 Update: New Cases Reported",
+      "image": "https://ichef.bbci.co.uk/news/480/cpsprodpb/21E0/production/_111227680_globalmapfinal_11mar_v2-nc.png.webp",
+      "link": "https://www.bbc.com/news/world",
+      "description": "The latest updates on COVID-19 cases worldwide. The coronavirus pandemic continues to affect millions of people globally, with new cases being reported daily. Stay informed about the current situation and precautions to take.",
+      "source": "BBC News"
+    },
+    {
+      "id": 2,
+      "title": "Economic Outlook for 2024",
+      "image": "https://image.cnbcfm.com/api/v1/image/107387901-1710471799171-gettyimages-1821920734-US_STOCKS.jpeg?v=1710471843&w=740&h=416&ffmt=webp&vtcrop=y",
+      "link": "https://www.cnbc.com/world-economy/",
+      "description": "Insights into the global economic trends and forecasts. Explore the projected growth of various industries and regions, along with potential challenges and opportunities in the coming year.",
+      "source": "CNBC"
+    },
+    {
+      "id": 3,
+      "title": "Online harassment risks pushing Kenyan women out of politics",
+      "image": "https://www.unwomen.org/sites/default/files/2023-09/kenya_politicsandharassment_sept2023_1_1200x800.jpg?t=1694696727",
+      "link": "https://www.unwomen.org/en/news-stories/feature-story/2023/09/online-harassment-risks-pushing-kenyan-women-out-of-politics",
+      "description": "As more women in Kenya enter politics, online harassment and threats are increasingly used to intimidate and silence them.",
+      "source": "UNWomen"
+    },
+    {
+      "id": 4,
+      "title": "The Global Mining Boom Puts African Great Apes at Greater Risk Than Previously Known",
+      "image": "https://insideclimatenews.org/wp-content/uploads/2024/04/GettyImages-2070585785-1536x1024.jpg",
+      "link": "https://insideclimatenews.org/news/03042024/african-great-apes-global-mining-risk/",
+      "description": "New research reveals that one-third of great apes on the African continent are threatened by mining concessions, while inadequate protective measures are in place.",
+      "source": "Inside Climate News"
+    },
+    {
+      "id": 5,
+      "title": "Technology News: Innovations and Trends",
+      "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:716x494/640x427/filters:focal(358x247:359x248):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25382124/15d62808_a443_4763_9814_04f274be045f.png",
+      "link": "https://www.theverge.com/2024/4/9/24125264/asus-vivobook-s-zenbook-14-oled-um3406",
+      "description": "Asus has released two new laptop models: the Asus Vivobook S series and the Zenbook 14 OLED (UM3406). Along with offering OLED displays, the laptops run on some of the latest AMD and Intel processors.",
+      "source": "The Verge"
+    }
+  ],
+  "sports": [
+    {
+      "id": 1,
+      "title": "Every UEFA Champions League Player of the Match",
+      "image": "https://editorial.uefa.com/resources/028c-1a9d3f89ada4-de0a9eef8ecc-1000/format/wide1/gettyimages-2148062411_20240409231220.jpeg?imwidth=2048",
+      "link": "https://www.uefa.com/uefachampionsleague/news/0285-1904c28d5633-377a22ec4306-1000--every-uefa-champions-league-player-of-the-match/",
+      "description": "UEFA is issuing an official Player of the Match award, presented by PlayStation, after every 2023/24 UEFA Champions League game to recognise the star performers in Europe's elite club competition.",
+      "source": "UEFA"
+    },
+    {
+      "id": 2,
+      "title": "A historic race for No. 1 in the West looms",
+      "image": "https://cdn.nba.com/manage/2024/04/west-trio-1080-240408.jpg",
+      "link": "https://www.nba.com/news/a-historic-race-for-no-1-in-the-west-looms",
+      "description": "The Wolves, Nuggets and Thunder have topped the West for the past 40 days, separated by 1 1/2 games or less the entire time.",
+      "source": "NBA"
+    },
+    {
+      "id": 3,
+      "title": "Bottas pleased with Kick Sauber’s pace progress as Zhou rues ‘disappointing start of the year’ after Japan DNF",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_960,q_auto/t_16by9South/f_auto/q_auto/trackside-images/2024/F1_Grand_Prix_of_Japan/2145397295",
+      "link": "https://www.formula1.com/en/latest/article/bottas-pleased-with-kick-saubers-pace-progress-as-zhou-rues-disappointing.7lCT8c3LGHO72EEvyDwXr6",
+      "description": "There were mixed emotions for the Kick Sauber team at the Japanese Grand Prix, with Valtteri Bottas taking the positives from the squad’s improvement in pace while Zhou Guanyu was left disappointed after having to retire with a mechanical problem.",
+      "source": "Formula 1"
+    },
+    {
+      "id": 4,
+      "title": "NFL Schedule 2024: Love, Packers vs. Hurts, Eagles Announced for Week 1 in Brazil",
+      "image": "https://media.bleacherreport.com/image/upload/w_800,h_533,c_fill/v1712755909/yqqnllnm2c7z9e0ycal4.jpg",
+      "link": "https://bleacherreport.com/articles/10116276-nfl-schedule-2024-love-packers-vs-hurts-eagles-announced-for-week-1-in-brazil",
+      "description": "The NFL's first regular-season game in Brazil will feature a showdown between two of the league's top quarterbacks.",
+      "source": "Bleacher Report"
+    },
+    {
+      "id": 5,
+      "title": "Saudi Arabia to host the WTA Finals for next three years and provide record prize money",
+      "image": "https://ichef.bbci.co.uk/news/976/cpsprodpb/7A91/production/_133077313_gettyimages-1759439026.jpg.webp",
+      "link": "https://www.bbc.com/sport/tennis/68732673",
+      "description": "Saudi Arabia will host the WTA Finals for the next three years and offer record prize money of $15.25m (£12.04m).",
+      "source": "BBC News"
+    }
+  ],
+  "entertainment": [
+    {
+      "id": 1,
+      "title": "Movie Reviews: Critics' Picks",
+      "image": "https://dims.apnews.com/dims4/default/2574316/2147483647/strip/true/crop/2051x1367+0+0/resize/1440x960!/format/webp/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F40%2F0e%2F0d9e909e7609ffdfe4bb7e88ba35%2F21c5710321774d809069e9eb3cf046f2",
+      "link": "https://apnews.com/article/monkey-man-movie-review-dev-patel-47d28b09ee9b123ec9efc138a446a927",
+      "description": "“Monkey Man,” produced by Jordan Peele, is aiming for something grittier, though — more in Bruce Lee territory or the neighborhood of Park Chan-wook’s “Oldboy” — wild, kinetic places to be where martial-arts action turns mythic and feverish.",
+      "source": "AP News"
+    },
+    {
+      "id": 2,
+      "title": "Megan Thee Stallion Says Fitness Saved Her from 'Dark Times': I Used Working Out to Escape'",
+      "image": "https://people.com/thmb/lZt1XmIP_quZymNZplCRv9HyFqY=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(799x0:801x2):format(webp)/Meg-thee-Stallion-Womens-Health-2-041024-3fb723c867dd441781c8d0dc5ac1162a.jpg",
+      "link": "https://people.com/megan-thee-stallion-says-working-out-helped-her-escape-her-dark-times-8629769",
+      "description": "For Megan Thee Stallion, physical and mental health go hand in hand.The 'Savage' rapper, 29, posed nude for the May/June 2024 cover of Women's Health and opened up about how focusing her energy on fitness was beneficial when her mental health was suffering.",
+      "source": "People"
+    },
+    {
+      "id": 3,
+      "title": "The 14 Best Spring 2024 Jewelry Trends You'll Want to Know About",
+      "image": "https://www.instyle.com/thmb/8nhJlnRyaBJSiR-0FUy8NobShNQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/IMG_4636-471c663f75a24df9ae5ca905addddf5e.JPG",
+      "link": "https://www.instyle.com/spring-2024-jewelry-trends-8304032",
+      "description": "It is a fashion fact universally acknowledged that the right piece of jewelry can be the cherry on top of a perfect outfit.",
+      "source": "InStyle"
+    },
+    {
+      "id": 4,
+      "title": "TikTokers and Conjoined Twins Carmen & Lupita Address Dating, Sex, Dying and More in Resurfaced Video",
+      "image": "https://akns-images.eonline.com/eol_images/Entire_Site/2024310/rs_1024x759-240410122335-lupita.jpg?fit=around%7C1024:759&output-quality=90&crop=1024:759;center,top",
+      "link": "https://www.eonline.com/news/1399218/tiktokers-and-conjoined-twins-carmen-lupita-address-dating-sex-dying-and-more-in-resurfaced-video",
+      "description": "TikTokers Carmen Andrade and Lupita Andrade, 23-year-old conjoined twins, answered their followers’ frequently asked, and inappropriate, questions.",
+      "source": "E!News"
+    },
+    {
+      "id": 5,
+      "title": "'Chicago Fire' Star Kara Killmer to Exit During Season 12",
+      "image": "https://www.etonline.com/_next/image?url=https%3A%2F%2Fwww.etonline.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2F1280x720%2Fpublic%2Fimages%2F2023-11%2FGettyImages-898816258.jpg%3Fh%3D0220f18d&w=1024&q=100",
+      "link": "https://www.etonline.com/chicago-fire-star-kara-killmer-to-exit-during-season-12-215063",
+      "description": "The actress, 35, joined the long-running NBC drama during season 3 in 2014 and has played fan-favorite Sylvie Brett in more than 190 episodes. She has also appeared in several episodes of Chicago P.D. and Chicago Med throughout her tenure with the network.",
+      "source": "etonline"
+    }
+  ],
+  "life": [
+    {
+      "id": 1,
+      "title": "What Happens If You Look at a Solar Eclipse Without Glasses?",
+      "image": "https://people.com/thmb/-QEfaGDVz1TqKeDAUDUiBUQZ7dk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(999x0:1001x2):format(webp)/2017-solar-eclipse-040824-73783e518b174d879b2979d1094b8253.jpg",
+      "link": "https://people.com/what-happens-if-you-look-directly-at-a-solar-eclipse-eye-damage-8628276",
+      "description": "If you look directly at the solar eclipse on Monday without protection, you could damage your eyesight — permanently.",
+      "source": "People"
+    },
+    {
+      "id": 2,
+      "title": "After life-changing losses, these millennials are now trying to help others preserve their loved ones’ legacy",
+      "image": "https://image.cnbcfm.com/api/v1/image/107394743-1711934443018-Worley_family_life_inalife.jpg?v=1712210641&w=740&h=416&ffmt=webp&vtcrop=y",
+      "link": "https://www.cnbc.com/2024/04/08/millennials-memories-life-changing-losses-folklory-inalife.html",
+      "description": "It wasn’t until he became a father that Nicholas Worley rekindled the idea of preserving memories of his loved ones and their legacies.",
+      "source": "CNBC"
+    },
+    {
+      "id": 3,
+      "title": "How hitting the snooze button could save your life",
+      "image": "https://static.independent.co.uk/2022/12/12/10/newFile-4.jpg?quality=75&width=1250&crop=3%3A2%2Csmart&auto=webp",
+      "link": "https://www.independent.co.uk/news/health/snooze-alarm-health-minutes-sleep-b2465481.html",
+      "description": "Scientists at China’s Nanjing Medical University found that people who were sleep-deprived during a typical hardworking week but managed to grab an extra two hours’ sleep on the weekend were 63 per cent less likely to suffer a heart attack or stroke.",
+      "source": "Independent"
+    },
+    {
+      "id": 4,
+      "title": "Women can gain definition without bulking up.",
+      "image": "https://www.usnews.com/object/image/00000183-8f4a-dfce-a3eb-ef7a1c7d0000/gettyimages-1288737452.jpg?update-time=1664556556781&size=responsive300",
+      "link": "https://health.usnews.com/wellness/fitness/slideshows/upper-body-gym-machines-for-women",
+      "description": "Cultural norms around what makes a woman physically attractive have always fluctuated. In the 1990s, for example, stick-thin models were held up as the ideal.",
+      "source": "Health"
+    },
+    {
+      "id": 5,
+      "title": "Fasting at Ramadan while keeping health in mind",
+      "image": "https://www.heart.org/-/media/Images/News/2024/March-2024/0305RamadanFasting_SC.jpg",
+      "link": "https://www.heart.org/en/news/2024/03/05/fasting-at-ramadan-while-keeping-health-in-mind",
+      "description": "On the spiritual side, the ninth month of the Islamic calendar is a time to reflect on virtues such as patience, sacrifice and thanksgiving. That focus is sharpened by physical self-restraint – most notably, by fasting from sunrise to sunset.",
+      "source": "Heart"
+    }
+  ],
+  "tech": [
+    {
+      "id": 1,
+      "title": "NVIDIA unveils Blackwell architecture to power next GenAI wave ",
+      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/sites/9/2024/03/nvidia-blackwell-gpu-architecture-generative-ai-artificial-intelligence-1536x995.jpg",
+      "link": "https://www.artificialintelligence-news.com/2024/03/19/nvidia-unveils-blackwell-architecture-power-next-genai-wave/",
+      "description": "NVIDIA has announced its next-generation Blackwell GPU architecture, designed to usher in a new era of accelerated computing and enable organisations to build and run real-time generative AI on trillion-parameter large language models.",
+      "source": "ArtificialIntelligence-News."
+    },
+    {
+      "id": 2,
+      "title": "We Tried It: Apple's Vision Pro Headset, a Brave New World for Computing",
+      "image": "https://people.com/thmb/R_TQE9bDOBdMcfFeyNLc6FZiF1k=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(999x0:1001x2):format(webp)/apple-vision-promo-images-020124-6-77290a36622d460fa9672193662fc420.jpg",
+      "link": "https://people.com/apple-vision-pro-headset-review-8557794",
+      "description": "I took two test drives on the tech giant's just-launched, $3,499 futuristic 'spatial computing' headset — and my mind was seriously blown",
+      "source": "People"
+    },
+    {
+      "id": 3,
+      "title": "US launches another spy into orbit - here's what we know about the hundreds of satellites watching us",
+      "image": "https://e3.365dm.com/24/04/1600x900/skynews-north-korea-satellite_6515994.jpg?20240409162939",
+      "link": "https://news.sky.com/story/us-launches-another-spy-into-orbit-heres-what-we-know-about-the-hundreds-of-satellites-watching-us-13111567",
+      "description": "There's been a flurry of reconnaissance satellites heading into orbit recently, partly in a race between South and North Korea to get eyes in the sky. So what are all those satellites doing up there?",
+      "source": "News.Sky"
+    },
+    {
+      "id": 4,
+      "title": "North Korea Hacked Him. So He Took Down Its Internet",
+      "image": "https://media.wired.com/photos/61f87c2850297725e779e9aa/master/w_1600,c_limit/nk-hacker-wired.jpg",
+      "link": "https://www.wired.com/story/north-korea-hacker-internet-outage/",
+      "description": "FOR THE PAST two weeks, observers of North Korea's strange and tightly restricted corner of the internet began to notice that the country seemed to be dealing with some serious connectivity problems.",
+      "source": "Wired"
+    },
+    {
+      "id": 5,
+      "title": "The Apple Watch could be the next great Game Boy emulator",
+      "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2050x1258/640x427/filters:focal(1025x629:1026x630):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25383748/Screenshot_2024_04_10_at_11.21.15_AM.png",
+      "link": "https://www.theverge.com/2024/4/10/24126308/apple-watch-android-smartwatch-game-boy-advance-emulator-reddit",
+      "description": "In a cosmic coincidence, just days after I stayed up too late playing Castlevania: Aria of Sorrow, a video of that very game being played on an apparent Apple Watch Ultra came across my screen. I’m now fully convinced that emulators on an Apple Watch would be a great way to game.",
+      "source": "The Verge"
+    }
+  ]
+}
