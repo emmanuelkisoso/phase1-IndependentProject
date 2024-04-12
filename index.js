@@ -87,7 +87,7 @@ function addNewsSource(source) {
 }
 
 function showNewsSource() {
-    return fetch('http://localhost:3000/news/1', {
+    return fetch('https://independentproject.onrender.com/news', {
             method: 'GET',
             headers: {
                 'Content-Type': 'application/json',
