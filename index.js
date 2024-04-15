@@ -96,12 +96,16 @@ function showNewsSource() {
         })
         .then(res => res.json())
         .then(data => {
-            const source = data.source;
-            return source;
+          console.log(data);
+          if (data.length > 0) {
+              const source = data[0].source;
+              return source;
+          } else {
+              return 'Unknown';
+          }
         })
         .catch(error => {
             console.error('Error fetching source:', error);
             return 'Unknown';
         });
 }
-
