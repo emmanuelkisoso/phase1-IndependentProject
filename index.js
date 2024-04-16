@@ -91,6 +91,8 @@ document.addEventListener('DOMContentLoaded', async (event) => {
   addSportsSource(sportsSource);
   const entertainmentSource= await showEntertainmentSource();
   addEntertainmentSource(entertainmentSource);
+  const lifeSource= await showLifeSource();
+  addLifeSource(lifeSource);
 });
 
 function addNewsSource(source) {
@@ -158,6 +160,35 @@ function addSportsSource(source) {
 
 function showSportsSource() {
   return fetch('https://independentproject.onrender.com/sports', {
+          method: 'GET',
+          headers: {
+              'Content-Type': 'application/json',
+              'Accept': 'application/json'
+          },
+      })
+      .then(res => res.json())
+      .then(data => {
+        console.log(data);
+        if (data.length > 0) {
+            const source = data[0].source;
+            return source;
+        } else {
+            return 'Unknown';
+        }
+      })
+      .catch(error => {
+          console.error('Error fetching source:', error);
+          return 'Unknown';
+      });
+}
+
+function addLifeSource(source) {
+  const sourceElement = document.getElementsByTagName('h6')[3];
+  sourceElement.textContent = `Source: ${source}`;
+}
+
+function showLifeSource() {
+  return fetch('https://independentproject.onrender.com/life', {
           method: 'GET',
           headers: {
               'Content-Type': 'application/json',
